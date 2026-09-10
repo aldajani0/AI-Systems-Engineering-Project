@@ -198,7 +198,6 @@ The test suite covers:
 
 ## Future Improvements
 
-- True parallel document processing using LangGraph fan-out/fan-in.
 - More advanced document requirement extraction.
 - Additional document security and file signature validation.
 - Improved monitoring and analytics.
